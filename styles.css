@@ -7266,6 +7266,7 @@
 
   .content-3 img {
     width: 99%;
+    margin-bottom: 70px;
     margin: auto;
   }
 
@@ -7301,6 +7302,12 @@
 
   .content-4 p {
     font-size: 18px;
+  }
+
+  .content-4 img {
+    width: 99%;
+    margin: auto;
+    margin-bottom: 70px;
   }
 
   .content-4 p span {
@@ -7345,9 +7352,10 @@
     margin-bottom: 100px;
   }
 
-  .content-6 img {
-    width: fit-content;
-    margin-bottom: 30px;
+  .content-3 img {
+    width: 99%;
+    margin: auto;
+    margin-bottom: 70px;
   }
 
   .content-6 h1 {
